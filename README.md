@@ -1,4 +1,5 @@
 # vue-admin
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+vue job
+>>>>>>> 23d039d51f7810da202bba4a30b9e2fc67174ae4
